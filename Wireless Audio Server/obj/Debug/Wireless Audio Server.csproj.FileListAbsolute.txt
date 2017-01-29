@@ -12,3 +12,6 @@ c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wir
 c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wireless Audio Server\obj\Debug\Wireless Audio Server.csproj.GenerateResource.Cache
 c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wireless Audio Server\obj\Debug\Wireless Audio Server.exe
 c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wireless Audio Server\obj\Debug\Wireless Audio Server.pdb
+C:\Wireless-Audio-System-Win\Wireless Audio Server\bin\Debug\Wireless Audio Server.exe.config
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server.exe
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server.pdb
