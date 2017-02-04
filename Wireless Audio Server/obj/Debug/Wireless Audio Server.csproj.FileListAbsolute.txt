@@ -12,6 +12,16 @@ c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wir
 c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wireless Audio Server\obj\Debug\Wireless Audio Server.csproj.GenerateResource.Cache
 c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wireless Audio Server\obj\Debug\Wireless Audio Server.exe
 c:\users\mateusz\documents\visual studio 2015\Projects\Wireless Audio Server\Wireless Audio Server\obj\Debug\Wireless Audio Server.pdb
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\MainWindow.g.cs
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\App.g.cs
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server_MarkupCompile.cache
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server_MarkupCompile.lref
 C:\Wireless-Audio-System-Win\Wireless Audio Server\bin\Debug\Wireless Audio Server.exe.config
+C:\Wireless-Audio-System-Win\Wireless Audio Server\bin\Debug\Wireless Audio Server.exe
+C:\Wireless-Audio-System-Win\Wireless Audio Server\bin\Debug\Wireless Audio Server.pdb
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\MainWindow.baml
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server.g.resources
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless_Audio_Server.Properties.Resources.resources
+C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server.csproj.GenerateResource.Cache
 C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server.exe
 C:\Wireless-Audio-System-Win\Wireless Audio Server\obj\Debug\Wireless Audio Server.pdb
