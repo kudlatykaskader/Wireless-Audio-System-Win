@@ -25,6 +25,7 @@ namespace Wireless_Audio_Server
         public MainWindow()
         {
             InitializeComponent();
+            Console.Out.WriteLine("Git test");
         }
 
     
